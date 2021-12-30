@@ -26,7 +26,6 @@ string get_bin(int n, int len)
 
 void solve()
 {
-    // Constructing a graph and BFSing it
     int n;
     cin>>n;
     vector<int> tour = {0, 1};
